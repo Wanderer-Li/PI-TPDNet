@@ -1,5 +1,6 @@
 # PI-TPDNet
-This repository contains the PyTorch implementation of our ICASSP'26 paper, "PI-TPDNET: A PHYSICS-INFORMED TREND-PERIOD DECOMPOSITION NEURAL NETWORK FOR AIR QUALITY PREDICTION". <br>
+This repository contains the PyTorch implementation of our ICASSP'26 paper, "PI-TPDNET: A PHYSICS-INFORMED TREND-PERIOD DECOMPOSITION NEURAL NETWORK FOR AIR QUALITY PREDICTION". 
+![](./img/overall.jpg)
 ## Datasets
 We use two publicly available datasets as described in the paper:
 1. **KnowAir**: https://github.com/shuowang-ai/PM2.5-GNN
