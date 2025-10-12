@@ -12,7 +12,6 @@ We use two publicly available datasets as described in the paper:
      torchdiffeq 0.2.3
 > pip install -r requirements.txt
 
-## Config
      
 
 The code used in this work, corresponding to our ICASSP 2026 paper, will be made publicly available upon publication.
